@@ -18,3 +18,11 @@ Le patron de conception repository permet d'encapsuler les requêtes lancées à
 Question 6 : il faut utiliser cette commande :  "php bin/console debug:router"
 
 Question 7 : 
+
+Question 8 : on peut utiliser "doctrine:schema:update --force"
+
+Question 9 : Il faut utiliser la commande :  "php bin/console make:controller BrandNewController"
+
+Question 10 : Flex est un outil Symfony qui permet d'ajouter des nouvelles briques en déployant le moins d'effort possible. En effet, l'ajout d'une brique dans une application nécessite souvent d'ajouter un minimum de configuration, d'enregistrer des nouvelles routes, etc. 
+
+
