@@ -17,7 +17,7 @@ Le patron de conception repository permet d'encapsuler les requêtes lancées à
 
 Question 6 : il faut utiliser cette commande :  "php bin/console debug:router"
 
-Question 7 : 
+Question 7 : il s'agit de la variable app.
 
 Question 8 : on peut utiliser "doctrine:schema:update --force" et "doctrine:schema:update --dump-sql".
 
