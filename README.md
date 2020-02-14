@@ -7,4 +7,14 @@ Rôle : C'est assez simple. L'imaginaire Mailerclasse vous permet de configurer 
 Question 2 : Make:entity sert à créer une entité dans doctrine. 
              Make:user sert à créer une classe user qui servira pour la partie sécurité de symfony.
              
-Question 3 : 
+Question 3 : Nous devons utiliser la commande doctrine:fixture:load
+
+Question 4 : Semver est une librairie qui offre des services ainsi qu'une résolution des problèmes de versions.
+
+Question 5 : Un repository est un patron de conception qui sert à maintenir une bonne architecture logicielle.
+
+Le patron de conception repository permet d'encapsuler les requêtes lancées à la base de données. Grâce au repository, la règle « Thin controllers, fat models » est renforcée. De plus, les méthodes développées pour un repository pourront facilement être réutilisées dans votre application. Finalement, il est plus facile de tester un repository qu'un contrôleur puisque moins de dépendances sont en jeu.
+
+Question 6 : il faut utiliser cette commande :  "php bin/console debug:router"
+
+Question 7 : 
