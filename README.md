@@ -19,7 +19,7 @@ Question 6 : il faut utiliser cette commande :  "php bin/console debug:router"
 
 Question 7 : 
 
-Question 8 : on peut utiliser "doctrine:schema:update --force"
+Question 8 : on peut utiliser "doctrine:schema:update --force" et "doctrine:schema:update --dump-sql".
 
 Question 9 : Il faut utiliser la commande :  "php bin/console make:controller BrandNewController"
 
